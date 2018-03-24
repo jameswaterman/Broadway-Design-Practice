@@ -1,0 +1,8 @@
+html {
+	text-align: center;
+	font-family: Helvetica;
+}
+
+.background-image, h4 {
+	background-image: url("../images/the-flatiron-building.png")
+}
