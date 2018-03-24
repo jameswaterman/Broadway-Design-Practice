@@ -7,19 +7,48 @@ html {
 	background-image: url("../images/the-flatiron-building.png")
 }
 
+/*Main title*/
 h1, a {
 	color: white;
 	font-weight: bold;
 }
 
+h1 {
+	font-size: 70px;
+}
+
+/*navigation*/
 .head p a {
 	font-size: 18px;
 }
 
 .head p {
-	line-height: 2em;
+	line-height: 2.05em;
 }
 
-h1 {
-	font-size: 70px;
+h2 {
+	font-size: 32px;
 }
+
+h3 {
+	font-size: 23px;
+}
+
+p {
+	font-size: 14px;
+}
+
+h4 {
+	font-size: 26px;
+	color: white;
+}
+
+footer {
+	background-color: dimgrey;
+	color: white;
+	font-size: 11px;
+	text-align: left;
+}
+
+
+
