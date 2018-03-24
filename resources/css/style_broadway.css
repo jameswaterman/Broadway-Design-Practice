@@ -6,3 +6,20 @@ html {
 .background-image, h4 {
 	background-image: url("../images/the-flatiron-building.png")
 }
+
+h1, a {
+	color: white;
+	font-weight: bold;
+}
+
+.head p a {
+	font-size: 18px;
+}
+
+.head p {
+	line-height: 2em;
+}
+
+h1 {
+	font-size: 70px;
+}
