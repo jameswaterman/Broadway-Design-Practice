@@ -3,7 +3,7 @@ html {
 	font-family: Helvetica;
 }
 
-.background-image, h4 {
+.background-image {
 	background-image: url("../images/the-flatiron-building.png")
 }
 
@@ -45,6 +45,10 @@ footer {
 	color: white;
 	font-size: 11px;
 	text-align: left;
+}
+
+footer nav p a {
+	padding: 20px;
 }
 
 
